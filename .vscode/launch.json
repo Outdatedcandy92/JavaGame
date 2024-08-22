@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "vmArgs": "-Djava.library.path=lib/native",
+            "classPaths": [
+                "bin",
+                "lib/lwjgl.jar",
+                "lib/lwjgl-glfw.jar",
+                "lib/lwjgl-opengl.jar",
+                "lib/*"
+            ]
+        }
+    ]
+}

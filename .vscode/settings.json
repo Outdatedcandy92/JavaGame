@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Rudy\\Documents\\code\\JavaGame\\game\\lib\\lwjgl-opengl.jar",
+        "c:\\Users\\Rudy\\Documents\\code\\JavaGame\\game\\lib\\lwjgl.jar",
+        "c:\\Users\\Rudy\\Documents\\code\\JavaGame\\game\\lib\\lwjgl-openal.jar",
+        "c:\\Users\\Rudy\\Documents\\code\\JavaGame\\game\\lib\\lwjgl-glfw.jar"
+    ]
+}
